@@ -1,8 +1,3 @@
-gdy666/lucky:v2
-develop767/migu_video:latest
-deluan/navidrome
-dpage/pgadmin4
-caramelfur/picsur:latest
 portainer/portainer-ce:latest
 analogic/poste.io:latest
 postgres:17
