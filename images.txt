@@ -4,7 +4,7 @@ axigen/axigen:latest
 jeessy/ddns-go:latest
 louislam/dockge:1
 linuxserver/duplicati:latest
-filebrowser/filebrowserlatest
+filebrowser/filebrowser:latest
 fireflyiii/core:latest
 linuxserver/heimdall:latest
 imagegenius/immich:latest
