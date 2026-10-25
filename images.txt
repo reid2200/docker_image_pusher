@@ -1,5 +1,4 @@
-bestzwei/libretv:latest
-linkwarden/linkwarden:latest
+linkwarden/linkwarden
 gdy666/lucky:v2
 develop767/migu_video:latest
 deluan/navidrome
