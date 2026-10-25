@@ -1,7 +1,6 @@
-emby/embyserver:latest
-xhofe/alist:latest
-apachewebdav/apachewebdav
-linuxserver/calibre
-linuxserver/calibre-web
-rabbitmq:management
-library/rocket.chat
+vaultwarden/server
+nextcloud
+registry:2
+gitea/gitea
+ghcr.io/moontechlab/lunatv:latest
+cloudreve/cloudreve:latest
