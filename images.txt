@@ -7,7 +7,7 @@ linuxserver/duplicati:latest
 filebrowser/filebrowser:latest
 fireflyiii/core:latest
 linuxserver/heimdall:latest
-imagegenius/immich:latest
+immich:latest
 bestzwei/libretv:latest
 linkwarden/linkwarden:latest
 gdy666/lucky:v2
