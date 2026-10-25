@@ -28,3 +28,5 @@ triliumnext/trilium:latest
 yuwancumian2009/tunescout-v2:latest
 vaultwarden/server:1.37.0-alpine
 privoce/vocechat-server:latest
+tomsquest/docker-radicale:latest
+chishin/nginx-proxy-manager-zh:release
