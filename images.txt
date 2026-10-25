@@ -1,13 +1,3 @@
-adguard/adguardhome:latest
-fanningert/aria2-with-ariang:latest
-axigen/axigen:latest
-jeessy/ddns-go:latest
-louislam/dockge:1
-linuxserver/duplicati:latest
-filebrowser/filebrowser:latest
-fireflyiii/core:latest
-linuxserver/heimdall:latest
-immich:latest
 bestzwei/libretv:latest
 linkwarden/linkwarden:latest
 gdy666/lucky:v2
