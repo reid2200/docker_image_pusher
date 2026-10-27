@@ -1,2 +1,1 @@
-couchdb
-blakeblackshear/frigate:stable
+blakeblackshear/frigate
