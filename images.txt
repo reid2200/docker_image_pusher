@@ -1,1 +1,1 @@
-blakeblackshear/frigate:0.18.2
+ghcr.io/blakeblackshear/frigate:0.18.2
