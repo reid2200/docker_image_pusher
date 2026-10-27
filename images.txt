@@ -1,6 +1,2 @@
-vaultwarden/server
-nextcloud
-registry:2
-gitea/gitea
-ghcr.io/moontechlab/lunatv:latest
-cloudreve/cloudreve:latest
+couchdb
+blakeblackshear/frigate:stable
