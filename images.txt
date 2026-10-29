@@ -1,1 +1,1 @@
-ollama/ollama
+jc21/nginx-proxy-manager
